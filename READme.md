@@ -8,6 +8,7 @@ conda activate nlp
 The only package you really need to install is pandas (pip install pandas). The other modules I used, like re and os, come with Python
 
 To run the code, just make sure you have access to the reviews data pickle file. Then run:
+
 python code1.py
 
 for the baseline
